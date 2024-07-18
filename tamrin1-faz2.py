@@ -1,4 +1,4 @@
-pimport argparse
+import argparse
 import random
 import pyautogui
 import time
